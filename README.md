@@ -27,7 +27,9 @@ In your `config/app.php` add `'Klucherev\Smsaero\SmsaeroServiceProvider'` to the
 ```
 ### Configuration
 
-run php artisan config:publish klucherev/smsaero
+Run 
+
+    $ php artisan config:publish klucherev/smsaero
 
 This will generate config file in /app/config/packages/klucherev/smsaero that you will need to edit.
 
