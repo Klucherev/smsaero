@@ -1,0 +1,23 @@
+{
+    "name": "klucherev/smsaero",
+    "description": "A simple API provider for smsaero.ru",
+    "keywords": ["laravel", "smsaero", "sms"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Klucherev",
+            "email": "klucherev@bizapp.ru",
+            "homepage": "http://www.bizapp.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Klucherev\\Smsaero": "src/"
+        }
+    },
+    "minimum-stability" : "dev"
+}
