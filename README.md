@@ -48,4 +48,4 @@ $sms = Smsaero::send($to, $text, $from, $date);
 
 [MIT License](http://opensource.org/licenses/MIT).
 
-Copyright 2014 [Klucherev Alexey](http://bizapp.ru/)
+Copyright 2015 [Klucherev Alexey](http://bizapp.ru/)
